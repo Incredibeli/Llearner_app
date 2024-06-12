@@ -1,0 +1,11 @@
+D:\Desktop\Code\KursWork\KursWork\bin\Debug\KursWork.exe.config
+D:\Desktop\Code\KursWork\KursWork\bin\Debug\KursWork.exe
+D:\Desktop\Code\KursWork\KursWork\bin\Debug\KursWork.pdb
+D:\Desktop\Code\KursWork\KursWork\obj\Debug\KursWork.csproj.AssemblyReference.cache
+D:\Desktop\Code\KursWork\KursWork\obj\Debug\KursWork.Form1.resources
+D:\Desktop\Code\KursWork\KursWork\obj\Debug\KursWork.Properties.Resources.resources
+D:\Desktop\Code\KursWork\KursWork\obj\Debug\KursWork.csproj.GenerateResource.cache
+D:\Desktop\Code\KursWork\KursWork\obj\Debug\KursWork.csproj.CoreCompileInputs.cache
+D:\Desktop\Code\KursWork\KursWork\obj\Debug\KursWork.exe
+D:\Desktop\Code\KursWork\KursWork\obj\Debug\KursWork.pdb
+D:\Desktop\Code\KursWork\KursWork\obj\Debug\KursWork.FormLang.resources
